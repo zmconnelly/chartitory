@@ -1,0 +1,8 @@
+owner: zmconnelly
+git-repo: chartitory
+charts-repo: https://zmconnelly.github.io/chartitory/
+package-path: .deploy
+token: 0cce405483eb18d3e86444d36636478fc0a0fdc9
+git-base-url: https://api.github.com/
+git-upload-url: https://uploads.github.com/
+index-path: ./index.yaml

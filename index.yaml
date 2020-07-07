@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-07T19:47:50.436887271Z"
+    description: A Helm chart for Kubernetes
+    digest: 16afbe6393c82c9305119787154b444488d76fa3bec1a0dd0223f7061721391a
+    name: app1
+    type: application
+    urls:
+    - https://github.com/zmconnelly/chartitory/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-07T19:47:50.604567478Z"
+    description: A Helm chart for Kubernetes
+    digest: 4fbfcf928a2819ee13478c4fd7fd4e23479b2d94e6951047635a9462bbd7ec24
+    name: app2
+    type: application
+    urls:
+    - https://github.com/zmconnelly/chartitory/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-07T19:47:49.986947754Z"
